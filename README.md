@@ -18,14 +18,13 @@ I'm a Javascript Full Stack and Consultant. I work at TCS as a Systems Engineer 
 Here are some ideas to get you started:
 
 - 🔭 I'm currently working on TAMM, an Abu Dhabi government (Middle East) initiative with React.js, Node.js, Camunda and Express.js
-- 📝 I write stuff at [Medium](https://amirmustafaofficial.medium.com/)
+- 📝 I write at [medium](https://amirmustafaofficial.medium.com/)
 - 🌱 I’m currently learning/exploring AWS Cloud .
 - :rocket: Always ready to collaborate for Dev Experiments
 - :trophy: Platinum | Gold certified AICTE Engineer
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
 - 💬 Ask me about all things modern JS - TypeScript, ES6, Node.js
 - :man_technologist: Former Lead team at TAMM, an EAD Abu Dhabi Government unit
-- :rocket: Always ready to collaborate for Dev Experiments.
 - :dart: I love meeting new people. Let us get connected. <br>
 
 <!-- <h3 align="left">Let's get connected:</h3> -->
