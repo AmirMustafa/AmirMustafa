@@ -1,105 +1,63 @@
-### Hi there, I'm Amir Mustafa - aka [codeSTACKr][website] 👋
+## Hey there! Nice to see you here!
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
+I'm Wassim, I create tools for developers. I am a long time Angular active contributor. I work at Microsoft as a Senior Developer Advocate specialized in JavaScript. I am the creator of [xlayers.dev](https://xlayers.dev), [ngx.tools](https://www.ngx.tools), [hexa.run](https://www.hexa.run), [async-await.xyz](https://async-await.xyz), and other projects. I am also a [GDE for Google](https://developers.google.com/community/experts/directory/profile/profile-wassim_chegham) and an [ambassador for Auth0](https://auth0.com/ambassador-program).
 
-## I'm a Developer, and Teacher!!
+<p align="center">
+<a href="https://www.buymeacoffee.com/wassimchegham" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-green.png" alt="Buy Me A Coffee" height="40px" ></a>&nbsp;<a href="https://ecologi.com/wassimchegham?r=5facf70521660a001d024120"><img src="https://img.shields.io/badge/Buy%20me%20a%20tree-%F0%9F%8C%B3-lightgreen?style=for-the-badge" height="40px" alt="Buy us a tree"/></a>
+</p>
 
-- 🔭 I just launched my first course: [Become A VS Code SuperHero!][course]!
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
+## My latest sketch note...
 
-### Connect with me:
+![what happens when you type in an URL in a address bar in a browser](https://pbs.twimg.com/media/EcmG_g4WoAI2rTv?format=jpg&name=large)
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<!--<img align="center" src="https://github-readme-stats.vercel.app/api?username=manekinekko&count_private=true&show_icons=true&theme=synthwave" />-->
 
-<br />
+## My latest projects...
 
-### Languages and Tools:
+### [Thundr: The ultimate BaaS for Azure](https://thundr.dev)
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />][reactplaylist]
-[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/github/explore/e94815998e4e0713912fed477a1f346ec04c3da2/topics/gatsby/gatsby.png" />][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />][webdevplaylist]
-[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/github/explore/361e2821e2dea67711cde99c9c40ed357061cf27/topics/deno/deno.png" />][webdevplaylist]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][webdevplaylist]
+The ultimate backend as a service for Microsoft Azure (hosting, storage, authentication, database, workflows) 🚀
 
-<br />
-<br />
+![](https://thundr.dev/thundr-twitter-card.png)
 
----
 
-### 📺 Latest YouTube Videos
+### [Windows NT/2000 theme for VS Code](https://marketplace.visualstudio.com/items?itemName=wassimdev.windows-nt-vscode-theme&ssr=true)
 
-<!-- YOUTUBE:START -->
-- [Intentional Career Building with Kent C. Dodds // React Advanced London Interview](https://www.youtube.com/watch?v=1lxAnODL7GU)
-- [⭐ BONUS: STACKr News Shorts - Tailwind Just in Time Tutorial](https://www.youtube.com/watch?v=CGVWCcwVrfU)
-- [VS Code Anywhere! Use THIS Trick to get GitHub Codespaces NOW!](https://www.youtube.com/watch?v=RezYIIJYZ6Y)
-- [4 Steps to Make $Millions with an API 💰, Don't Miss THIS!](https://www.youtube.com/watch?v=GpYboktUnTY)
-- [⭐ BONUS: STACKr News Shorts - Top 10 programming languages to learn in 2022](https://www.youtube.com/watch?v=-qcmzbsItnk)
-<!-- YOUTUBE:END -->
+A Windows NT/2000 theme for VS Code 🎉
 
-➡️ [more videos...](https://youtube.com/codestackr)
+![](https://raw.githubusercontent.com/manekinekko/windows-nt-vscode-theme/main/docs/windows-nt-vs-code-theme-banner.jpg)
 
----
+### [xLayers.dev](https://xLayers.dev) ([sponsor xLayers](https://opencollective.com/xlayers))
+xLayers is a community-driven effort to bridge the gap between designers, who implement the UI sketch and developers who implement the code from these design sketches. Put simply, xLayers is a code generation tool for your design sketches: use xLayers to instantly scaffold your components out of your design.
 
-### 📕 Latest Blog Posts
+![](https://user-images.githubusercontent.com/1699357/67277306-cfe36900-f4c6-11e9-92e4-45318e155b6b.png)
 
-<!-- BLOG-POST-LIST:START -->
-- [How To Pass Application Tracking Systems (ATS) & Get Interviews - Resume Tips for Software Developer](https://dev.to/codestackr/how-to-pass-application-tracking-systems-ats-get-interviews-resume-tips-for-software-developer-4bmo)
-- [Microinteractions: Password Validation Animation](https://dev.to/codestackr/microinteractions-password-validation-animation-5629)
-- [Notion + YouTube - A Powerful Combination for Productivity](https://dev.to/codestackr/notion-youtube-a-powerful-combination-for-productivity-1def)
-- [Regular Expressions (RegEx) Crash Course](https://dev.to/codestackr/regular-expressions-regex-crash-course-248n)
-- [Emmet Part 2 - Advanced](https://dev.to/codestackr/emmet-part-2-advanced-4c65)
-<!-- BLOG-POST-LIST:END -->
+### [ngx.tools](https://www.ngx.tools)
+An Angular package repository
 
-➡️ [more blog posts...](https://codestackr.com)
+![](https://user-images.githubusercontent.com/1699357/67277442-1638c800-f4c7-11e9-8359-24d0fcade630.png)
 
----
+### [Catsify](https://www.catsify.app) 
+Choose a unique and creative cat's name
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-2. ❗️ Closed issue [#2](https://github.com/codeSTACKr/portfolio-sass/issues/2) in [codeSTACKr/portfolio-sass](https://github.com/codeSTACKr/portfolio-sass)
-3. ❌ Closed PR [#11](https://github.com/codeSTACKr/free-developer-resources/pull/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-4. 🗣 Commented on [#11](https://github.com/codeSTACKr/free-developer-resources/issues/11) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-5. 🎉 Merged PR [#10](https://github.com/codeSTACKr/free-developer-resources/pull/10) in [codeSTACKr/free-developer-resources](https://github.com/codeSTACKr/free-developer-resources)
-<!--END_SECTION:activity-->
+![image](https://user-images.githubusercontent.com/1699357/91197978-44e18980-e6fc-11ea-8ca0-51c1e6033b56.png)
 
-</details>
+### [Hue Action](https://www.hueaction.dev) 
+Github Action: Trigger your Philips Hue lights from your Github workflow.
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
+![](https://user-images.githubusercontent.com/1699357/76635352-a72c4080-6547-11ea-9afc-5ee3dfed3d05.png)
 
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+### [Hexa](https://www.hexa.run) 
+The ultimate companion for the Azure CLI. Setup and deploy in seconds.
 
-</details>
+![](https://user-images.githubusercontent.com/1699357/74333685-bf6a3d80-4d98-11ea-90b3-335708599c2c.png)
 
-[website]: https://codeSTACKr.com
-[course]: http://vsCodeHero.com
-[twitter]: https://twitter.com/codeSTACKr
-[youtube]: https://youtube.com/codeSTACKr
-[instagram]: https://instagram.com/codeSTACKr
-[linkedin]: https://linkedin.com/in/codeSTACKr
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
+### [Nitro](https://victorious-ocean-0337ef81e.azurestaticapps.net) 
+Nitro is the simplest way to build & deploy Serverless Node.js backends on Azure.
+
+![](https://user-images.githubusercontent.com/1699357/74333800-ef194580-4d98-11ea-9045-d9d6fd888196.png)
+
+## Public Biography
+
+Wassim is a passionate and big supporter of Open Source. He currently works for Microsoft Azure as Senior Developer Advocate, specialized in JavaScript. In addition to being a contributor on Angular, Bazel and Node.js, Wassim is also the author of many tools for developers such as xlayers.dev and ngx.tools.
+For his many contributions to the developer community, Auth0 nominated Wassim as an Auth Ambassador, and Google nominated him as a GDE on Web technologies, Angular, Google Assistant as well as GCP. In his free time, Wassim is learning electronic music composition (EDM) as well as drawing and sketch noting. You can reach out to Wassim any time on his Twitter account @manekinekko or wassim.dev.
