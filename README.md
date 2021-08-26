@@ -16,11 +16,11 @@ I'm Amir, I create tools for developers. I am a long time Angular active contrib
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMustafa&theme=light"/>
 </a>
 
-I'm a Javascript Full Stack and Consultant. I work at Tata Consultancy Services and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
+I'm a Javascript Full Stack and Consultant. I have good experience in JavaScript and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on TAMM, Abu Dhabi government Project with React.js, Node.js, Camunda and Express.js
+- 🔭 I'm currently working on TAMM Project, an Abu Dhabi government initiative with React.js, Node.js, Camunda and Express.js
 - 📝 I write stuff at medium.com
 - 🌱 I’m currently learning/exploring AWS Cloud .
 - :rocket: Always ready to collaborate for Dev Experiments
@@ -39,14 +39,7 @@ Here are some ideas to get you started:
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 
-
-## Public Biography
-
-Wassim is a passionate and big supporter of Open Source. He currently works for Microsoft Azure as Senior Developer Advocate, specialized in JavaScript. In addition to being a contributor on Angular, Bazel and Node.js, Wassim is also the author of many tools for developers such as xlayers.dev and ngx.tools.
-For his many contributions to the developer community, Auth0 nominated Wassim as an Auth Ambassador, and Google nominated him as a GDE on Web technologies, Angular, Google Assistant as well as GCP. In his free time, Wassim is learning electronic music composition (EDM) as well as drawing and sketch noting. You can reach out to Wassim any time on his Twitter account @manekinekko or wassim.dev.
-
-
-<h2 align="left">:heart: Let's get connected:</h2>
+![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/one-aalam.one-aalam/readme)
 
 [![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
 [![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
