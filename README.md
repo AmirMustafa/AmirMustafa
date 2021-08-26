@@ -16,11 +16,21 @@ I'm Amir, I create tools for developers. I am a long time Angular active contrib
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMustafa&theme=light"/>
 </a>
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AmirMustafa)
+I'm a Javascript Full Stack and Consultant. I work at Tata Consultancy Services and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
+
+Here are some ideas to get you started:
+
+🔭 I'm currently working on TAMM, Abu Dhabi government Project with React.js, Node.js and Camunda
+📝 I write stuff at medium.com
+🌱 I’m currently learning/exploring AWS Cloud - IAM, EC2, EBS, AMI, and many more to explore.
+:rocket: Always ready to collaborate for Dev Experiments
+:trophy: Platinum | Gold certified AICTE Engineer
+:zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+💬 Ask me about all things modern JS - TypeScript, ES6, Node.js
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
-- :computer: I'm currently working on MERN Stack
+- :computer: I'm currently working on TAMM, Abu Dhabi government Project with React.js, Node.js and Camunda
 - :hourglass_flowing_sand:  Exploring AWS Cloud
 - :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Lead team at TAMM, an EAD Abu Dhabi Government unit
