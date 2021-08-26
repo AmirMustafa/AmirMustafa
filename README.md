@@ -19,6 +19,7 @@ I'm Amir, I create tools for developers. I am a long time Angular active contrib
 I'm a Javascript Full Stack and Consultant. I have good experience in JavaScript and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
 Here are some ideas to get you started:
+<h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🔭 I'm currently working on TAMM Project, an Abu Dhabi government initiative with React.js, Node.js, Camunda and Express.js
 - 📝 I write stuff at medium.com
@@ -27,16 +28,8 @@ Here are some ideas to get you started:
 - :trophy: Platinum | Gold certified AICTE Engineer
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
 - 💬 Ask me about all things modern JS - TypeScript, ES6, Node.js
-
-<h2 align="left">👨🏻‍💻 About Me:</h2>
-
-- :computer: I'm currently working on TAMM, Abu Dhabi government Project with React.js, Node.js and Camunda
-- :hourglass_flowing_sand:  Exploring AWS Cloud
-- :rocket: Always ready to collaborate for Dev Experiments
 - :man_technologist: Former Lead team at TAMM, an EAD Abu Dhabi Government unit
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Platinum | Gold | Silver certified AICTE Engineer
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" <br>
 
 
 ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/AmirMustafa.AmirMustafa/readme)
