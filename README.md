@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🔭 I'm currently working on TAMM, an Abu Dhabi government (Middle East) initiative with React.js, Node.js, Camunda and Express.js
-- 📝 I write stuff at medium.com
+- 📝 I write stuff at [Medium](https://amirmustafaofficial.medium.com/)
 - 🌱 I’m currently learning/exploring AWS Cloud .
 - :rocket: Always ready to collaborate for Dev Experiments
 - :trophy: Platinum | Gold certified AICTE Engineer
