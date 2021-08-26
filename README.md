@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about all things modern JS - TypeScript, ES6, Node.js
 - :man_technologist: Former Lead team at TAMM, an EAD Abu Dhabi Government unit
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" <br>
-- :rocket: Always ready to collaborate for Dev Experiments and connect more people.
+- :rocket: Always ready to collaborate for Dev Experiments and always aspire to connect with more people.
 
 <!-- <h3 align="left">Let's get connected:</h3> -->
 
