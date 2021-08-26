@@ -1,9 +1,5 @@
 ## Hi! I'm Amir Mustafa. Welcome to my Github Profile 👋 (Currently in development)
 
-I'm Amir, I create tools for developers. I am a long time Angular active contributor. I work at Microsoft as a Senior Developer Advocate specialized in JavaScript. I am the creator of [xlayers.dev](https://xlayers.dev), [ngx.tools](https://www.ngx.tools), [hexa.run](https://www.hexa.run), [async-await.xyz](https://async-await.xyz), and other projects. I am also a [GDE for Google](https://developers.google.com/community/experts/directory/profile/profile-wassim_chegham) and an [ambassador for Auth0](https://auth0.com/ambassador-program).
-
-
-
 <!-- <a href="https://github.com/AmirMustafa">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMustafa&theme=dark"/>
@@ -19,7 +15,6 @@ I'm Amir, I create tools for developers. I am a long time Angular active contrib
 I'm a Javascript Full Stack and Consultant. I work at TCS as a Systems Engineer specialized in JavaScript.I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
 Here are some ideas to get you started:
-<h2 align="left">👨🏻‍💻 About Me:</h2>
 
 - 🔭 I'm currently working on TAMM, an Abu Dhabi government (Middle East) initiative with React.js, Node.js, Camunda and Express.js
 - 📝 I write stuff at [Medium](https://amirmustafaofficial.medium.com/)
