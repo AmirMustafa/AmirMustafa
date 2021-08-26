@@ -20,13 +20,13 @@ I'm a Javascript Full Stack and Consultant. I work at Tata Consultancy Services 
 
 Here are some ideas to get you started:
 
-🔭 I'm currently working on TAMM, Abu Dhabi government Project with React.js, Node.js and Camunda
-📝 I write stuff at medium.com
-🌱 I’m currently learning/exploring AWS Cloud - IAM, EC2, EBS, AMI, and many more to explore.
-:rocket: Always ready to collaborate for Dev Experiments
-:trophy: Platinum | Gold certified AICTE Engineer
-:zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
-💬 Ask me about all things modern JS - TypeScript, ES6, Node.js
+- 🔭 I'm currently working on TAMM, Abu Dhabi government Project with React.js, Node.js, Camunda and Express.js
+- 📝 I write stuff at medium.com
+- 🌱 I’m currently learning/exploring AWS Cloud .
+- :rocket: Always ready to collaborate for Dev Experiments
+- :trophy: Platinum | Gold certified AICTE Engineer
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
+- 💬 Ask me about all things modern JS - TypeScript, ES6, Node.js
 
 <h2 align="left">👨🏻‍💻 About Me:</h2>
 
