@@ -11,9 +11,9 @@ I'm Wassim, I create tools for developers. I am a long time Angular active contr
 - :computer: I'm currently working on MERN Stack
 - :hourglass_flowing_sand:  Exploring AWS Cloud
 - :rocket: Always ready to collaborate for Dev Experiments
-- :man_technologist: Former Project Lead at TAMM, an Abu Dhabi Government initiative
+- :man_technologist: Former Lead team at TAMM, an EAD Abu Dhabi Government unit
 - :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" 
-- :trophy: Platinum certified AICTE Engineer
+- :trophy: Platinum | Gold | Silver certified AICTE Engineer
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking<br>
 
 ## My latest sketch note...
