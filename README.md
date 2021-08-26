@@ -24,8 +24,8 @@ Here are some ideas to get you started:
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
 - 💬 Ask me about all things modern JS - TypeScript, ES6, Node.js
 - :man_technologist: Former Lead team at TAMM, an EAD Abu Dhabi Government unit
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge" <br>
-- :rocket: Always ready to collaborate for Dev Experiments and always aspire to connect with more people.
+- :rocket: Always ready to collaborate for Dev Experiments.
+- :dart: Always ready to connect with people and love to build a great community" <br>
 
 <!-- <h3 align="left">Let's get connected:</h3> -->
 
