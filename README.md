@@ -22,3 +22,9 @@ I'm Wassim, I create tools for developers. I am a long time Angular active contr
 
 Wassim is a passionate and big supporter of Open Source. He currently works for Microsoft Azure as Senior Developer Advocate, specialized in JavaScript. In addition to being a contributor on Angular, Bazel and Node.js, Wassim is also the author of many tools for developers such as xlayers.dev and ngx.tools.
 For his many contributions to the developer community, Auth0 nominated Wassim as an Auth Ambassador, and Google nominated him as a GDE on Web technologies, Angular, Google Assistant as well as GCP. In his free time, Wassim is learning electronic music composition (EDM) as well as drawing and sketch noting. You can reach out to Wassim any time on his Twitter account @manekinekko or wassim.dev.
+
+
+<h2 align="left">:heart: Let's get connected:</h2>
+
+[![Linkedin Badge](https://img.shields.io/badge/-sivramshastri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/imsivram1999/)](https://www.linkedin.com/in/sivramshastri) [![Twitter Badge](https://img.shields.io/badge/-@prince__shivaram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/prince_shivaram)](https://twitter.com/prince_shivaram) [![Facebook Badge](https://img.shields.io/badge/-@prince__shivaram-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/jonnalagadda.shivaram)](https://www.facebook.com/jonnalagadda.shivaram) [![Instagram Badge](https://img.shields.io/badge/-@prince__shivaram-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)](https://www.instagram.com/itz.me____p.r.i.n.c.e_____/)
+[![Linkedin Badge](https://img.shields.io/badge/-Sivram.tech-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=https://sivram.tech/)](https://sivram.tech/)
