@@ -13,6 +13,7 @@ I'm Amir, I create tools for developers. I am a long time Angular active contrib
 
 <a href="https://github.com/AmirMustafa">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMustafa&theme=dark"/>
 </a>
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=AmirMustafa)
