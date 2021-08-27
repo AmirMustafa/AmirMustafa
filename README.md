@@ -15,7 +15,7 @@
 <br/>
 I'm a JavaScript Full Stack and Consultant. I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
-<h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
+<h4 align="left">:hammer_and_wrench: Technologies and Tools I use:</h4>
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
