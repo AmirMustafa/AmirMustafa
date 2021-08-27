@@ -13,7 +13,7 @@
 </a>
 
 <br/>
-I'm a Javascript Full Stack and Consultant. I work at TCS as a Systems Engineer specialized in JavaScript. I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
+I'm a JavaScript Full Stack and Consultant. I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
 Here are some ideas to get you started:
 
@@ -24,11 +24,13 @@ Here are some ideas to get you started:
 - :trophy: Platinum | Gold certified AICTE Engineer
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences
 - 💬 Ask me about all things modern JS - TypeScript, ES6, Node.js
-- :man_technologist: Former Lead team at TAMM, an EAD Abu Dhabi Government unit
+- :man_technologist: Worked as a JavaScript Full stack at TAMM, in EAD and ADAFSA Government unit of Abu Dhabi
 - :dart: I like meeting new people. Let us get connected. <br>
 
 <!-- <h3 align="left">Let's get connected:</h3> -->
 
  &emsp; &nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-@amirmustafa1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmustafa1//)](https://www.linkedin.com/in/amirmustafa1/) [![Twitter Badge](https://img.shields.io/badge/-@amir__mustafa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amir__mustafa)](https://twitter.com/amir__mustafa) [![Medium Badge](https://img.shields.io/badge/-@amirmustafaofficial-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://amirmustafaofficial.medium.com)](https://amirmustafaofficial.medium.com) [![Instagram Badge](https://img.shields.io/badge/-@aamir__mustafa-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aamir__mustafa/)](https://www.instagram.com/aamir__mustafa/)
-[![Linkedin Badge](https://img.shields.io/badge/-amirmustafa.net-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=http://amirmustafa.net/)](http://amirmustafa.net/) ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/AmirMustafa.AmirMustafa/readme)
+[![Linkedin Badge](https://img.shields.io/badge/-amirmustafa.net-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=http://amirmustafa.net/)](http://amirmustafa.net/) 
+
+&emsp; &nbsp; &nbsp; ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/AmirMustafa.AmirMustafa/readme)
 
