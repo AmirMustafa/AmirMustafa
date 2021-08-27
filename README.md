@@ -15,8 +15,7 @@
 <br/>
 I'm a JavaScript Full Stack and Consultant. I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
-    <!-- START -->
-<h2 align="left">:hammer_and_wrench: Technologies and Tools I use:</h2>
+<h3 align="left">:hammer_and_wrench: Technologies and Tools I use:</h3>
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
@@ -25,7 +24,7 @@ I'm a JavaScript Full Stack and Consultant. I have over four years of experience
 <a href="https://webpack.js.org/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/js_webpack/js_webpack-icon.svg" alt="webpack" width="40" height="40"/> </a>
 <a href="https://www.postman.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://about.gitlab.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131089278-7a31cddc-7ca3-4ac7-962b-d1a0612096a5.png" alt="GitLab" width="40" height="40"/> </a>
+<a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131089278-7a31cddc-7ca3-4ac7-962b-d1a0612096a5.png" alt="GitLab" width="40" height="40"/> </a>
 <a href="https://about.gitlab.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131089275-5f7b7ec3-f585-450c-b931-f3c69431b909.png" alt="git" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131089270-773352df-7ab5-4788-af22-830dd399357f.png" alt="AWS Cloud" width="40" height="40"/> </a>
     </p>
