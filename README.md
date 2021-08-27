@@ -9,11 +9,11 @@
 
 <a href="https://github.com/AmirMustafa">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
- <!-- <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMustafa&theme=light"/> -->
+  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMustafa&theme=light"/>
 </a>
 
 
-I'm a Javascript Full Stack and Consultant. I work at TCS as a Systems Engineer specialized in JavaScript.I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
+I'm a Javascript Full Stack and Consultant. I work at TCS as a Systems Engineer specialized in JavaScript. I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
 Here are some ideas to get you started:
 
