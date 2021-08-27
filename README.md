@@ -19,18 +19,16 @@ Here are some ideas to get you started:
 
 - 🔭 I'm currently working on TAMM, an Abu Dhabi government (Middle East) initiative with React.js, Node.js, Camunda and Express.js
 - 📝 I write at [medium](https://amirmustafaofficial.medium.com/)
-- 🌱 I’m currently learning/exploring AWS Cloud .
+- 🌱 I’m currently learning/exploring AWS Cloud
 - :rocket: Always ready to collaborate for Dev Experiments
 - :trophy: Platinum | Gold certified AICTE Engineer
-- :zap: Fun fact: I love to attend Meetups for learning & Conferences for Networking
+- :zap: Fun fact: I love to attend Meetups for learning & Conferences
 - 💬 Ask me about all things modern JS - TypeScript, ES6, Node.js
 - :man_technologist: Former Lead team at TAMM, an EAD Abu Dhabi Government unit
-- :dart: I love meeting new people. Let us get connected. <br>
+- :dart: I like meeting new people. Let us get connected. <br>
 
 <!-- <h3 align="left">Let's get connected:</h3> -->
 
- - [![Linkedin Badge](https://img.shields.io/badge/-@amirmustafa1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmustafa1//)](https://www.linkedin.com/in/amirmustafa1/) [![Twitter Badge](https://img.shields.io/badge/-@amir__mustafa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amir__mustafa)](https://twitter.com/amir__mustafa) [![Medium Badge](https://img.shields.io/badge/-@amirmustafaofficial-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://amirmustafaofficial.medium.com)](https://amirmustafaofficial.medium.com) [![Instagram Badge](https://img.shields.io/badge/-@aamir__mustafa-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aamir__mustafa/)](https://www.instagram.com/aamir__mustafa/)
-[![Linkedin Badge](https://img.shields.io/badge/-amirmustafa.net-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=http://amirmustafa.net/)](http://amirmustafa.net/)
-
-![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/AmirMustafa.AmirMustafa/readme)
+ &emsp; &nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-@amirmustafa1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmustafa1//)](https://www.linkedin.com/in/amirmustafa1/) [![Twitter Badge](https://img.shields.io/badge/-@amir__mustafa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amir__mustafa)](https://twitter.com/amir__mustafa) [![Medium Badge](https://img.shields.io/badge/-@amirmustafaofficial-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://amirmustafaofficial.medium.com)](https://amirmustafaofficial.medium.com) [![Instagram Badge](https://img.shields.io/badge/-@aamir__mustafa-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aamir__mustafa/)](https://www.instagram.com/aamir__mustafa/)
+[![Linkedin Badge](https://img.shields.io/badge/-amirmustafa.net-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=http://amirmustafa.net/)](http://amirmustafa.net/) ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/AmirMustafa.AmirMustafa/readme)
 
