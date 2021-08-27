@@ -1,4 +1,4 @@
-## Hi! I'm Amir Mustafa. Welcome to my Github Profile 👋 (Currently in development)
+## Hi! I'm Amir Mustafa. Welcome to my Github Profile 👋
 
 <!-- <a href="https://github.com/AmirMustafa">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
@@ -9,7 +9,7 @@
 
 <a href="https://github.com/AmirMustafa">
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMustafa&theme=light"/>
+ <!-- <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMustafa&theme=light"/> -->
 </a>
 
 
