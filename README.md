@@ -26,7 +26,7 @@ I'm a JavaScript Full Stack and Consultant. I have over four years of experience
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131089278-7a31cddc-7ca3-4ac7-962b-d1a0612096a5.png" alt="GitLab" width="40" height="40"/> </a>
 <a href="https://about.gitlab.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131089275-5f7b7ec3-f585-450c-b931-f3c69431b909.png" alt="git" width="40" height="40"/> </a>
-<a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131090394-187cc87e-3dd4-454a-80a5-75d5c005dcb4.png" alt="AWS Cloud" width="40" height="40"/> </a>
+<a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131090882-9e2b54bc-aab1-477f-9df0-b6e5044c36f5.jpeg" alt="AWS Cloud" width="40" height="40"/> </a>
     </p>
     <!-- END -->
 
