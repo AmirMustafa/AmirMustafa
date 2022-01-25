@@ -32,14 +32,15 @@ I'm a JavaScript Full Stack and Consultant. I have over four years of experience
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working at TCS India
-- 📝 I regulary write article on my [blog](https://amirmustafaofficial.medium.com/)
+- :office: I'm currently working at TCS India
+- :seedling: I’m currently learning AWS Cloud
+- :writing_hand: I regulary write article on my [blog](https://amirmustafaofficial.medium.com/)
+- :speech_balloon: &nbsp;I like to talk about **AWS Cloud**, **TypeScript** and **JavaScript**
 - 💞️ I’m looking to collaborate on Open Source Software!
-- 🌱 I’m currently learning/exploring AWS Cloud
-- :rocket: Always ready to collaborate for Dev Experiments
+
+- :rocket: Happy to collaborate for latest technology
 - :trophy: Platinum | Gold certified AICTE Engineer
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences
-- 💬 Ask me about all things modern JS - TypeScript, ES6, Node.js, React.js
 <!-- - :man_technologist: Worked as a JavaScript Full stack at TAMM, in EAD and ADAFSA Government unit of Abu Dhabi -->
 - :dart: I like meeting new people. Let us get connected. <br>
 
