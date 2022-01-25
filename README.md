@@ -18,6 +18,8 @@
 
 I'm a JavaScript Full Stack and Consultant. I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
+<h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
+
 > Tools, languages, and other things that I like to work with.
 
 
@@ -194,7 +196,7 @@ I'm a JavaScript Full Stack and Consultant. I have over four years of experience
     
 </table>
 
-
+<!--
 <h4 align="left">:hammer_and_wrench: Technologies and Tools I use:</h4>
 <p align="left">
    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
@@ -207,8 +209,7 @@ I'm a JavaScript Full Stack and Consultant. I have over four years of experience
 <a href="https://github.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131089278-7a31cddc-7ca3-4ac7-962b-d1a0612096a5.png" alt="GitLab" width="40" height="40"/> </a>
 <a href="https://about.gitlab.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131089275-5f7b7ec3-f585-450c-b931-f3c69431b909.png" alt="git" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131090882-9e2b54bc-aab1-477f-9df0-b6e5044c36f5.jpeg" alt="AWS Cloud" width="40" height="40"/> </a>
-    </p>
-    <!-- END -->
+    </p> -->
 <!--
 Here are some ideas to get you started:
 
@@ -229,9 +230,6 @@ Here are some ideas to get you started:
 
 
 
- &emsp; &nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-@amirmustafa1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmustafa1//)](https://www.linkedin.com/in/amirmustafa1/) [![Twitter Badge](https://img.shields.io/badge/-@amir__mustafa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amir__mustafa)](https://twitter.com/amir__mustafa) [![Medium Badge](https://img.shields.io/badge/-@amirmustafaofficial-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://amirmustafaofficial.medium.com)](https://amirmustafaofficial.medium.com) [![Instagram Badge](https://img.shields.io/badge/-@aamir__mustafa-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aamir__mustafa/)](https://www.instagram.com/aamir__mustafa/)
-[![Linkedin Badge](https://img.shields.io/badge/-amirmustafa.net-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=http://amirmustafa.net/)](http://amirmustafa.net/) ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/AmirMustafa.AmirMustafa/readme)
-
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
 - [Introducing AWS Cloud9: A Cloud-Based IDE](https://aws.plainenglish.io/aws-cloud9-a-cloud-based-ide-5c6af8af291f)
@@ -240,3 +238,9 @@ Here are some ideas to get you started:
 - [How to Upload Files in Node.js using Multer](https://javascript.plainenglish.io/uploading-files-in-node-js-using-multer-754526aa6817)
 - [Design Patterns: Singleton and private constructors in TypeScript](https://amirmustafaofficial.medium.com/javascript-typescript-design-patterns-singleton-and-private-constructors-1da7e268be95)
 <!-- BLOG-POST-LIST:END -->
+
+<!--
+&emsp; &nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-@amirmustafa1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmustafa1//)](https://www.linkedin.com/in/amirmustafa1/) [![Twitter Badge](https://img.shields.io/badge/-@amir__mustafa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amir__mustafa)](https://twitter.com/amir__mustafa) [![Medium Badge](https://img.shields.io/badge/-@amirmustafaofficial-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://amirmustafaofficial.medium.com)](https://amirmustafaofficial.medium.com) [![Instagram Badge](https://img.shields.io/badge/-@aamir__mustafa-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aamir__mustafa/)](https://www.instagram.com/aamir__mustafa/)
+[![Linkedin Badge](https://img.shields.io/badge/-amirmustafa.net-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=http://amirmustafa.net/)](http://amirmustafa.net/) ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/AmirMustafa.AmirMustafa/readme). -->
+
+
