@@ -7,31 +7,17 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **TCS India**
-- :seedling: &nbsp;I’m currently learning **[AWS]**
-- :writing_hand: &nbsp;I regulary write article on my **[blog]**
+- :seedling: &nbsp;I’m currently learning **[AWS Cloud](https://aws.amazon.com/)**
+- :writing_hand: &nbsp;I regulary write article on my **[blog]((https://amirmustafaofficial.medium.com/))**
 - :speech_balloon: &nbsp;I like to talk about **AWS**, **TypeScript** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
-- :computer: &nbsp;Connect with me on **[LinkedIn]**
-- :bird: &nbsp;Let's talk more in **[Twitter]**
+- :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/amirmustafa1/)**
+- :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/amir__mustafa)**
 
 <br>
 
-## 👋 Hello there! I'm Amir Mustafa
-
-<!-- <a href="https://github.com/AmirMustafa">
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmirMustafa&theme=dark"/>
-</a>
-
--->
-
-<a href="https://github.com/AmirMustafa">
-  <img height="225" src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=light&include_all_commits=true&count_private=true"/>
-<!--  <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=one-aalam&theme=light"/> -->
-</a>
-
-<br/>
 I'm a JavaScript Full Stack and Consultant. I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
+
 
 <h4 align="left">:hammer_and_wrench: Technologies and Tools I use:</h4>
 <p align="left">
