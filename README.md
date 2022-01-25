@@ -32,8 +32,8 @@ I'm a JavaScript Full Stack and Consultant. I have over four years of experience
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on TAMM, an Abu Dhabi government (Middle East) initiative with React.js, Node.js, Camunda and Express.js
-- 📝 I write stuff at [medium](https://amirmustafaofficial.medium.com/)
+- 🔭 I'm currently working on TCS India
+- 📝 I regulary write article on my [blog](https://amirmustafaofficial.medium.com/)
 - 💞️ I’m looking to collaborate on Open Source Software!
 - 🌱 I’m currently learning/exploring AWS Cloud
 - :rocket: Always ready to collaborate for Dev Experiments
