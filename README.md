@@ -45,6 +45,10 @@ Here are some ideas to get you started:
 
 <!-- <h3 align="left">Let's get connected:</h3> -->
 
+
+ &emsp; &nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-@amirmustafa1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmustafa1//)](https://www.linkedin.com/in/amirmustafa1/) [![Twitter Badge](https://img.shields.io/badge/-@amir__mustafa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amir__mustafa)](https://twitter.com/amir__mustafa) [![Medium Badge](https://img.shields.io/badge/-@amirmustafaofficial-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://amirmustafaofficial.medium.com)](https://amirmustafaofficial.medium.com) [![Instagram Badge](https://img.shields.io/badge/-@aamir__mustafa-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aamir__mustafa/)](https://www.instagram.com/aamir__mustafa/)
+[![Linkedin Badge](https://img.shields.io/badge/-amirmustafa.net-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=http://amirmustafa.net/)](http://amirmustafa.net/) ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/AmirMustafa.AmirMustafa/readme)
+
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
 - [Introducing AWS Cloud9: A Cloud-Based IDE](https://aws.plainenglish.io/aws-cloud9-a-cloud-based-ide-5c6af8af291f)
@@ -53,7 +57,3 @@ Here are some ideas to get you started:
 - [How to Upload Files in Node.js using Multer](https://javascript.plainenglish.io/uploading-files-in-node-js-using-multer-754526aa6817)
 - [Design Patterns: Singleton and private constructors in TypeScript](https://amirmustafaofficial.medium.com/javascript-typescript-design-patterns-singleton-and-private-constructors-1da7e268be95)
 <!-- BLOG-POST-LIST:END -->
-
-
- &emsp; &nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-@amirmustafa1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmustafa1//)](https://www.linkedin.com/in/amirmustafa1/) [![Twitter Badge](https://img.shields.io/badge/-@amir__mustafa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amir__mustafa)](https://twitter.com/amir__mustafa) [![Medium Badge](https://img.shields.io/badge/-@amirmustafaofficial-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://amirmustafaofficial.medium.com)](https://amirmustafaofficial.medium.com) [![Instagram Badge](https://img.shields.io/badge/-@aamir__mustafa-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aamir__mustafa/)](https://www.instagram.com/aamir__mustafa/)
-[![Linkedin Badge](https://img.shields.io/badge/-amirmustafa.net-blueviolet?style=flat-square&logo=appveyor&logoColor=white&link=http://amirmustafa.net/)](http://amirmustafa.net/) ![visitors](https://img.shields.io/badge/dynamic/json?color=informational&label=visitor%20count&query=value&url=https://api.countapi.xyz/hit/AmirMustafa.AmirMustafa/readme)
