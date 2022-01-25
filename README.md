@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 - :rocket: Happy to collaborate for latest technology
 - :trophy: Platinum | Gold certified AICTE Engineer
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences
-<!-- - :man_technologist: Worked as a JavaScript Full stack at TAMM, in EAD and ADAFSA Government unit of Abu Dhabi -->
+<!-- - :man_technologist: Worked as a JavaScript Full stack at TAMM, in EAD and ADAFSA Government unit of Abu Dhabi 
 - :dart: I like meeting new people. Let us get connected. <br> -->
 
 <!-- <h3 align="left">Let's get connected:</h3> -->
