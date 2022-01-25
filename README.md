@@ -8,7 +8,7 @@
 
 - :office: &nbsp;I'm currently working at **TCS India**
 - :seedling: &nbsp;I’m currently learning **[AWS Cloud](https://aws.amazon.com/)**
-- :writing_hand: &nbsp;I regulary write article on my **[blog]((https://amirmustafaofficial.medium.com/))**
+- :writing_hand: &nbsp;I regulary write article on my **[blog](https://amirmustafaofficial.medium.com/)**
 - :speech_balloon: &nbsp;I like to talk about **AWS**, **TypeScript** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/amirmustafa1/)**
@@ -33,7 +33,7 @@ I'm a JavaScript Full Stack and Consultant. I have over four years of experience
 <a href="https://aws.amazon.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/15896579/131090882-9e2b54bc-aab1-477f-9df0-b6e5044c36f5.jpeg" alt="AWS Cloud" width="40" height="40"/> </a>
     </p>
     <!-- END -->
-
+<!--
 Here are some ideas to get you started:
 
 - :office: I'm currently working at TCS India
@@ -46,7 +46,7 @@ Here are some ideas to get you started:
 - :trophy: Platinum | Gold certified AICTE Engineer
 - :zap: Fun fact: I love to attend Meetups for learning & Conferences
 <!-- - :man_technologist: Worked as a JavaScript Full stack at TAMM, in EAD and ADAFSA Government unit of Abu Dhabi -->
-- :dart: I like meeting new people. Let us get connected. <br>
+- :dart: I like meeting new people. Let us get connected. <br> -->
 
 <!-- <h3 align="left">Let's get connected:</h3> -->
 
