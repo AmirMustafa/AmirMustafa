@@ -32,7 +32,7 @@ I'm a JavaScript Full Stack and Consultant. I have over four years of experience
 
 Here are some ideas to get you started:
 
-- 🔭 I'm currently working on TCS India
+- 🔭 I'm currently working at TCS India
 - 📝 I regulary write article on my [blog](https://amirmustafaofficial.medium.com/)
 - 💞️ I’m looking to collaborate on Open Source Software!
 - 🌱 I’m currently learning/exploring AWS Cloud
