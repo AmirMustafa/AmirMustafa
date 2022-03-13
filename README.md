@@ -16,7 +16,7 @@
 
 <br>
 
-I'm a JavaScript Full Stack and Consultant. I have over four years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
+I'm a JavaScript Full Stack and Consultant. I have over 4.56 years of experience and you've stumbled upon my personal slice of the Github – a place where I push the fruits of my curiousity, things I learn and am passionate about, as well as the outcome of the work I do and can share publicly.
 
 <h2 align="left" id="suhailkakar-tech">Favorite Tech</h2>
 
