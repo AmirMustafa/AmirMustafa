@@ -227,8 +227,18 @@ Here are some ideas to get you started:
 
 <!-- <h3 align="left">Let's get connected:</h3> -->
 
+   <!--
+<div align="center">
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirMustafa&theme=dark" alt="AmirMustafa" /></p>
+  </div>
+-->
 
-
+ [![AmirMustafa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AmirMustafa&theme=xcode)](https://git.io/AmirMustafa)
+   
+   <!--
+<h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=AmirMustafa&label=Profile%20views&color=6805D3&style=flat" alt="AmirMustafa" /> </p></h3>
+[![GitHub followers](https://img.shields.io/github/followers/AmirMustafa.svg?style=social&label=Follow)](https://github.com/AmirMustafa?tab=followers)
+-->
 
 ## ✍️ Latest Articles 
 <!-- BLOG-POST-LIST:START -->
