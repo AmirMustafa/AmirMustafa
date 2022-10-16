@@ -9,7 +9,7 @@
 - :office: &nbsp;I'm currently working at **Ernst and Young, India**
 - :seedling: &nbsp;I’m currently learning **[Azure Cloud](https://aws.amazon.com/)**
 - :writing_hand: &nbsp;I regulary write article on my **[blog](https://amirmustafaofficial.medium.com/)**
-- :speech_balloon: &nbsp;I like to talk about , **Azure**, **AWS**, **TypeScript** and **JavaScript**
+- :speech_balloon: &nbsp;I like to talk about **Azure**, **AWS**, **TypeScript** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/amirmustafa1/)**
 - :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/amir__mustafa)**
