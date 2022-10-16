@@ -1,12 +1,12 @@
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Amir Mustafa (Development in progress)</h1>
-<h3 align="left">I am a Software Developer at TCS </h3>
+<h3 align="left">I am a Software Developer at Ernst and Young </h3>
 
 
 <a href="#suhailkakar-title">
   <img src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Amir Mustafa" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Ernst and Young (EY), India**
+- :office: &nbsp;I'm currently working at **Ernst and Young, India**
 - :seedling: &nbsp;I’m currently learning **[AWS Cloud](https://aws.amazon.com/)**
 - :writing_hand: &nbsp;I regulary write article on my **[blog](https://amirmustafaofficial.medium.com/)**
 - :speech_balloon: &nbsp;I like to talk about **AWS**, **TypeScript** and **JavaScript**
