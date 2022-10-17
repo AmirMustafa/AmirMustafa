@@ -6,7 +6,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Amir Mustafa" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **Ernst and Young, India**
+- :office: &nbsp;I'm currently working at **EY India**
 - :seedling: &nbsp;I’m currently learning **[Azure Cloud](https://aws.amazon.com/)**
 - :writing_hand: &nbsp;I regulary write article on my **[blog](https://amirmustafaofficial.medium.com/)**
 - :speech_balloon: &nbsp;I like to talk about **Cloud**, **TypeScript** and **JavaScript**
