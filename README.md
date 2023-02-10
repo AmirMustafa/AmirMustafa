@@ -240,14 +240,30 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/AmirMustafa.svg?style=social&label=Follow)](https://github.com/AmirMustafa?tab=followers)
 -->
 
-## ✍️ Latest Articles 
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE-VIDEOS-LIST:START -->
+- [Installing Docker on Mac OS (Docker Desktop Starting issue Fixed) - 2022](https://www.youtube.com/watch?v=EnNRuKS6RIU&lc=Ugz06ZaTIsTIkk01HYF4AaABAg)
+- [Azure Cloud Computer Vision Service | Artificial Intelligence in Application Development | 2023](https://youtu.be/k379AcDw4-I)
+- [Software Security tools used for Sensitive data 2022](https://youtu.be/vvXn5YxwTz0)
+- [AWS SNS (Simple Notification Service) — One to Many application interactions 2022](https://youtu.be/8qFlpKXCJgI)
+<!-- YOUTUBE-VIDEOS-LIST:END -->
+
+▶️ [more videos...](https://www.youtube.com/@happylearnings786)
+
+---
+
+### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Introducing AWS Cloud9: A Cloud-Based IDE](https://aws.plainenglish.io/aws-cloud9-a-cloud-based-ide-5c6af8af291f)
-- [Meet AWS Elastic Beanstalk: The Perfect Solution for Deploying and Scaling Web Apps](https://aws.plainenglish.io/aws-elastic-beanstalk-abb97f658155)
-- [Create Serverless REST APIs using - AWS Lambda, DynamoDB, API Gateway, JavaScript](https://aws.plainenglish.io/creating-serverless-crud-api-using-aws-lambda-dynamodb-api-gateway-javascript-90ac1b23a77c)
-- [How to Upload Files in Node.js using Multer](https://javascript.plainenglish.io/uploading-files-in-node-js-using-multer-754526aa6817)
-- [Design Patterns: Singleton and private constructors in TypeScript](https://amirmustafaofficial.medium.com/javascript-typescript-design-patterns-singleton-and-private-constructors-1da7e268be95)
+- [Prime React with Javascript](https://medium.com/@amirmustafaofficial/prime-react-with-javascript-c969395f14d9)
+- [Uploading CSV files faster in Node js using Streams](https://medium.com/@amirmustafaofficial/uploading-csv-file-faster-in-node-js-using-streams-e0ca5a36fb98)
+- [Azure Data Box — Physical devices for data upload](https://medium.com/aws-tip/azure-data-box-physical-devices-for-data-upload-5a0f2dbbda75)
+- [Azure AZcopy — Moving files across Buckets or Containers](https://medium.com/@amirmustafaofficial/azure-azcopy-moving-files-across-buckets-or-containers-8ea4a7076f6)
+- [Nest JS: Converting Relative path to Absolute Path](https://medium.com/@amirmustafaofficial/nest-js-converting-relative-path-to-absolute-path-fea5b22dce47)
 <!-- BLOG-POST-LIST:END -->
+▶️ [more blog posts...](https://medium.com/@amirmustafaofficial)
+
+---
 
 <!--
 &emsp; &nbsp; &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-@amirmustafa1-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/amirmustafa1//)](https://www.linkedin.com/in/amirmustafa1/) [![Twitter Badge](https://img.shields.io/badge/-@amir__mustafa-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/amir__mustafa)](https://twitter.com/amir__mustafa) [![Medium Badge](https://img.shields.io/badge/-@amirmustafaofficial-000000?style=flat-square&labelColor=000000&logo=medium&logoColor=white&link=https://amirmustafaofficial.medium.com)](https://amirmustafaofficial.medium.com) [![Instagram Badge](https://img.shields.io/badge/-@aamir__mustafa-D7008A?style=flat-square&labelColor=D7008A&logo=Instagram&logoColor=white&link=https://www.instagram.com/aamir__mustafa/)](https://www.instagram.com/aamir__mustafa/)
