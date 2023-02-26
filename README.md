@@ -232,10 +232,10 @@ Here are some ideas to get you started:
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=AmirMustafa&theme=dark" alt="AmirMustafa" /></p>
   </div>
 -->
-
+<!--
  [![AmirMustafa's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=AmirMustafa&theme=xcode)](https://git.io/AmirMustafa)
    
-   <!--
+   
 <h3><p align="center"> <img src="https://komarev.com/ghpvc/?username=AmirMustafa&label=Profile%20views&color=6805D3&style=flat" alt="AmirMustafa" /> </p></h3>
 [![GitHub followers](https://img.shields.io/github/followers/AmirMustafa.svg?style=social&label=Follow)](https://github.com/AmirMustafa?tab=followers)
 -->
@@ -243,9 +243,12 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Installing Docker on Mac OS (Docker Desktop Starting issue Fixed) - 2022](https://www.youtube.com/watch?v=EnNRuKS6RIU&lc=Ugz06ZaTIsTIkk01HYF4AaABAg)
+- [Azure Form Recognizer | Extracting Data from Documents using AI | 2023](https://www.youtube.com/watch?v=LX6_uFNH-Gg)
+
 - [Azure Cloud Computer Vision Service | Artificial Intelligence in Application Development | 2023](https://youtu.be/k379AcDw4-I)
-- [Software Security tools used for Sensitive data 2022](https://youtu.be/vvXn5YxwTz0)
+ 
+- [Installing Docker on Mac OS (Docker Desktop Starting issue Fixed) - 2022](https://www.youtube.com/watch?v=EnNRuKS6RIU&lc=Ugz06ZaTIsTIkk01HYF4AaABAg)
+
 - [AWS SNS (Simple Notification Service) — One to Many application interactions 2022](https://youtu.be/8qFlpKXCJgI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
@@ -255,10 +258,14 @@ Here are some ideas to get you started:
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Azure’s Natural Language Processing Services (NLP)](https://medium.com/@amirmustafaofficial/azures-natural-language-processing-services-nlp-16a1e91db2b9)
+
 - [Prime React with Javascript](https://medium.com/@amirmustafaofficial/prime-react-with-javascript-c969395f14d9)
+-
 - [Uploading CSV files faster in Node js using Streams](https://medium.com/@amirmustafaofficial/uploading-csv-file-faster-in-node-js-using-streams-e0ca5a36fb98)
-- [Azure Data Box — Physical devices for data upload](https://medium.com/aws-tip/azure-data-box-physical-devices-for-data-upload-5a0f2dbbda75)
+-
 - [Azure AZcopy — Moving files across Buckets or Containers](https://medium.com/@amirmustafaofficial/azure-azcopy-moving-files-across-buckets-or-containers-8ea4a7076f6)
+-
 - [Nest JS: Converting Relative path to Absolute Path](https://medium.com/@amirmustafaofficial/nest-js-converting-relative-path-to-absolute-path-fea5b22dce47)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more blog posts...](https://medium.com/@amirmustafaofficial)
