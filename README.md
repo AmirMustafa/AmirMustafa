@@ -243,13 +243,14 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
+- [MobX Store | State Management with React | 2023 ]([https://youtu.be/8qFlpKXCJgI](https://www.youtube.com/watch?v=PbQSvaoA1Iw))
+- 
 - [Azure Form Recognizer | Extracting Data from Documents using AI | 2023](https://www.youtube.com/watch?v=LX6_uFNH-Gg)
 
 - [Azure Cloud Computer Vision Service | Artificial Intelligence in Application Development | 2023](https://youtu.be/k379AcDw4-I)
  
 - [Installing Docker on Mac OS (Docker Desktop Starting issue Fixed) - 2022](https://www.youtube.com/watch?v=EnNRuKS6RIU&lc=Ugz06ZaTIsTIkk01HYF4AaABAg)
 
-- [AWS SNS (Simple Notification Service) — One to Many application interactions 2022](https://youtu.be/8qFlpKXCJgI)
 <!-- YOUTUBE-VIDEOS-LIST:END -->
 
 ▶️ [more videos...](https://www.youtube.com/@happylearnings786)
