@@ -7,7 +7,7 @@
 </a>
 
 - :office: &nbsp;I'm currently working at **EY India**
-- :seedling: &nbsp;I’m currently learning **[Nest JS](https://nestjs.com/)** and **[Azure Cloud](https://azure.microsoft.com/en-gb/)**
+- :seedling: &nbsp;I’m currently learning **[ChatGPT](https://openai.com/)**, **[Nest JS](https://nestjs.com/)** and **[Azure Cloud](https://azure.microsoft.com/en-gb/)**
 - :writing_hand: &nbsp;I regulary write article on my **[blog](https://amirmustafaofficial.medium.com/)**
 - :speech_balloon: &nbsp;I like to talk about **Cloud**, **TypeScript** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
