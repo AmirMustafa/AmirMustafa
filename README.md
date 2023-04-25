@@ -243,7 +243,7 @@ Here are some ideas to get you started:
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
-- [ChatGPT | 2023](https://www.youtube.com/watch?v=xzxYq_nek2Q)
+- [Using ChatGPT with Microsoft Bing | GPT-4 Free | 2023](https://www.youtube.com/watch?v=d5HKTFrvx94)
 - 
 - [MobX Store | State Management with React | 2023 ](https://www.youtube.com/watch?v=PbQSvaoA1Iw)
 
