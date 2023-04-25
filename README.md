@@ -244,7 +244,7 @@ Here are some ideas to get you started:
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Using ChatGPT with Microsoft Bing | GPT-4 Free | 2023](https://www.youtube.com/watch?v=d5HKTFrvx94)
-- 
+
 - [MobX Store | State Management with React | 2023 ](https://www.youtube.com/watch?v=PbQSvaoA1Iw)
 
 - [Azure Form Recognizer | Extracting Data from Documents using AI | 2023](https://www.youtube.com/watch?v=LX6_uFNH-Gg)
