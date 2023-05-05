@@ -6,7 +6,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Amir Mustafa" align="right" />
 </a>
 
-- :office: &nbsp;I'm currently working at **EY India**
+- 🎬 &nbsp; **[My YouTube Channel](https://www.youtube.com/channel/UCiRv7SECTSF3-tXQM1IoMTw)**
+- :office: &nbsp;I'm currently working at **[EY India](https://www.ey.com/en_in)**
 - :seedling: &nbsp;I’m currently learning **[ChatGPT](https://openai.com/)**, **[Nest JS](https://nestjs.com/)** and **[Azure Cloud](https://azure.microsoft.com/en-gb/)**
 - :writing_hand: &nbsp;I regulary write article on my **[blog](https://amirmustafaofficial.medium.com/)**
 - :speech_balloon: &nbsp;I like to talk about **Cloud**, **TypeScript** and **JavaScript**
@@ -240,7 +241,7 @@ Here are some ideas to get you started:
 [![GitHub followers](https://img.shields.io/github/followers/AmirMustafa.svg?style=social&label=Follow)](https://github.com/AmirMustafa?tab=followers)
 -->
 
-### 📺 Latest YouTube Videos
+### 📺 Latest Videos
 
 <!-- YOUTUBE-VIDEOS-LIST:START -->
 - [Using ChatGPT with Microsoft Bing | GPT-4 Free | 2023](https://www.youtube.com/watch?v=d5HKTFrvx94)
@@ -259,7 +260,7 @@ Here are some ideas to get you started:
 
 ---
 
-### 📕 Latest Blog Posts
+### 📕 Latest Articles
 <!-- BLOG-POST-LIST:START -->
 - [Azure’s Natural Language Processing Services (NLP)](https://medium.com/@amirmustafaofficial/azures-natural-language-processing-services-nlp-16a1e91db2b9)
 
@@ -271,7 +272,7 @@ Here are some ideas to get you started:
 
 - [Nest JS: Converting Relative path to Absolute Path](https://medium.com/@amirmustafaofficial/nest-js-converting-relative-path-to-absolute-path-fea5b22dce47)
 <!-- BLOG-POST-LIST:END -->
-▶️ [more blog posts...](https://medium.com/@amirmustafaofficial)
+▶️ [more articles...](https://medium.com/@amirmustafaofficial)
 
 ---
 
