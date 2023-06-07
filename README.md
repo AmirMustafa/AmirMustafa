@@ -1,8 +1,15 @@
 <h1 align="left" id="suhailkakar-title">:wave: Hello there! I'm Amir Mustafa (Development in progress)</h1>
 <h3 align="left">I am a Software Developer at Ernst and Young </h3>
 
+<p align="right">
+  <a href="https://github.com/AmirMustafa?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/AmirMustafa"/></a>
+  <a href="https://github.com/AmirMustafa?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/AmirMustafa?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+</p>
 
-<a href="#suhailkakar-title">
+
+<a href="#amirmustafa-title">
   <img src="https://github-readme-stats.vercel.app/api?username=AmirMustafa&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="Amir Mustafa" align="right" />
 </a>
 
@@ -273,6 +280,7 @@ Here are some ideas to get you started:
 - [Nest JS: Converting Relative path to Absolute Path](https://medium.com/@amirmustafaofficial/nest-js-converting-relative-path-to-absolute-path-fea5b22dce47)
 <!-- BLOG-POST-LIST:END -->
 ▶️ [more articles...](https://medium.com/@amirmustafaofficial)
+
 
 ---
 
