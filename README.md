@@ -23,7 +23,7 @@
 - :speech_balloon: &nbsp;I like to talk about **Cloud**, **TypeScript** and **JavaScript**
 - :mailbox: &nbsp;Ask me about anything, I am happy to **help** :)
 - :computer: &nbsp;Connect with me on **[LinkedIn](https://www.linkedin.com/in/amirmustafa1/)**
-- :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/amir__mustafa)**
+- :bird: &nbsp;Let's talk more in **[Twitter](https://twitter.com/happy_learnings)**
 
 <br>
 
